@@ -1,0 +1,12 @@
+[2026-11-10 21:45:00] [INFO] Cliente creado exitosamente: Carlos Pérez (ID: 1184569632)
+[2026-11-10 21:46:15] [INFO] Cliente creado exitosamente: Ana María Gómez (ID: 77789632)
+[2026-11-10 21:47:22] [ERROR] El nombre del cliente no puede estar vacío.
+[2026-11-10 21:48:08] [ERROR] La identificación '123' es inválida. Debe ser numérica y tener al menos 5 dígitos.
+[2026-11-10 21:48:51] [ERROR] El correo electrónico 'luisacorreo.com' es inválido. Debe contener '@' y un dominio válido.
+[2026-11-10 21:49:27] [ERROR] El teléfono '1234' es inválido. Debe contener al menos 7 dígitos numéricos.
+[2026-11-10 22:10:02] [INFO] Cliente creado exitosamente: Carlos Vega (ID: 1184759621)
+[2026-11-10 22:16:02] [INFO] Cliente creado exitosamente: Angie Rodríguez (ID: 48759632)
+[2026-11-10 22:27:33] [ERROR] El nombre del cliente no puede estar vacío.
+[2026-11-10 22:29:43] [ERROR] La identificación '123' es inválida. Debe ser numérica y tener al menos 5 dígitos.
+[2026-11-10 22:31:14] [ERROR] El correo electrónico 'luisacorreo.com' es inválido. Debe contener '@' y un dominio válido.
+[2026-11-10 22:32:39] [ERROR] El teléfono '1234' es inválido. Debe contener al menos 7 dígitos numéricos.
